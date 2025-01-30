@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/byte-buddy-1.15.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/byte-buddy-1.15.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/checker-qual-3.43.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/checker-qual-3.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/commons-exec-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/commons-exec-1.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/error_prone_annotations-2.28.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/error_prone_annotations-2.28.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/failsafe-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/failsafe-3.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/failureaccess-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/failureaccess-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/guava-33.3.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/guava-33.3.1-jre-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/jspecify-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/jspecify-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/jsr305-3.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-api-1.43.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-api-1.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-api-incubator-1.43.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-api-incubator-1.43.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-context-1.43.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-context-1.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-exporter-logging-1.43.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-exporter-logging-1.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-1.43.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-1.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-common-1.43.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-common-1.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-extension-autoconfigure-1.43.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-extension-autoconfigure-1.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-extension-autoconfigure-spi-1.43.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-extension-autoconfigure-spi-1.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-logs-1.43.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-logs-1.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-metrics-1.43.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-metrics-1.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-trace-1.43.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-sdk-trace-1.43.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-semconv-1.25.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/opentelemetry-semconv-1.25.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-api-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-api-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-chrome-driver-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-chrome-driver-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-chromium-driver-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-chromium-driver-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-devtools-v85-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-devtools-v85-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-devtools-v128-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-devtools-v128-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-devtools-v129-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-devtools-v129-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-devtools-v130-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-devtools-v130-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-edge-driver-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-edge-driver-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-firefox-driver-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-firefox-driver-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-http-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-http-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-ie-driver-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-ie-driver-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-java-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-java-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-json-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-json-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-manager-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-manager-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-os-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-os-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-remote-driver-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-remote-driver-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-safari-driver-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-safari-driver-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-support-4.26.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Libraries/selenium-support-4.26.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/commons-codec-1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/commons-compress-1.26.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/commons-io-2.16.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/commons-lang3-3.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/docker-java-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/docker-java-api-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/docker-java-core-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/docker-java-transport-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/docker-java-transport-httpclient5-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/error_prone_annotations-2.27.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/gson-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/httpclient5-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/httpcore5-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/httpcore5-h2-5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/jna-5.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/slf4j-api-2.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dilna/Desktop/Selenium/Web driver/webdrivermanager-5.9.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
